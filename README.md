@@ -84,7 +84,7 @@ Test loss 0.0693, \*\*test accuracy 0.9800\*\*. Test seti yalnızca bu seçim ya
 
 \## Kendi el yazım ile test
 
-Öğrenci numaram `2312020505`, her hane ayrı ayrı yazılıp fotoğraflanmış ve `my\_digits/` içine konmuştur. Önişleme: gri tonlama, gerekirse renk ters çevirme (MNIST gibi koyu zemin, açık rakam), zemin temizleme, rakamın kırpılıp 20x20'ye sığdırılması, kütle merkezine göre 28x28 tuvale ortalanması, MNIST ile aynı mean/std normalizasyonu.
+Öğrenci numaram `23120205050`, her hane ayrı ayrı yazılıp fotoğraflanmış ve `my\_digits/` içine konmuştur. Önişleme: gri tonlama, gerekirse renk ters çevirme (MNIST gibi koyu zemin, açık rakam), zemin temizleme, rakamın kırpılıp 20x20'ye sığdırılması, kütle merkezine göre 28x28 tuvale ortalanması, MNIST ile aynı mean/std normalizasyonu.
 
 
 
